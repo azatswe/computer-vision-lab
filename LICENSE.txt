@@ -1,0 +1,14 @@
+Copyright (c) 2026 azatswe
+All rights reserved.
+
+This notice applies to the original AirBoard source code and documentation
+in this repository owned by the copyright holder named above.
+
+Except as permitted by applicable law or the GitHub Terms of Service,
+you must obtain the copyright holder's prior written permission to
+copy, modify, distribute, or incorporate this material into another
+project, whether for commercial or non-commercial purposes.
+
+Third-party models, libraries, and other third-party materials are
+governed by their respective licenses.
+This notice does not revoke rights granted under an earlier license.
